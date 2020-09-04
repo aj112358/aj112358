@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about: How I can find solutions to your problems.
+
 - 📫 How to reach me: singa@ucalgary.ca
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I like cats!
