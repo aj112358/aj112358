@@ -5,9 +5,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on: Projects to expand my data science skill repertoire.
+- 🔭 I’m currently working on:
+  - Learning advanced mathematics related to computer science.
+  - Working on small projects to continue gaining experience.
 
-- 🌱 I’m currently learning: Statistical methods and models.
+- 🌱 I’m currently learning: Number theory & Category Theory
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about: How I can find solutions to your problems.
