@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I like cats!
 
+- ✨ Here are some other links you can look at:
+  - Medium: https://aj112358.medium.com
+
